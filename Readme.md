@@ -1,6 +1,6 @@
 # Testes com Cookies, Carrinho de Compras e CRUD em Java
 
-Este projeto tem como objetivo implementar funcionalidades básicas de um **sistema de carrinho de compras** com **testes de cookies** e **sessões**, além de realizar operações de **CRUD** simples (Criar, Ler, Atualizar e Deletar) em um banco de dados, utilizando **Java**, **JSP**, **Apache Tomcat** e **Jakarta**.
+Este projeto tem como objetivo implementar funcionalidades básicas de um **sistema de carrinho de compras** com **testes de cookies** e **sessões**, além de realizar operações de **CRUD** simples em um banco de dados, utilizando **Java**, **JSP**, **Apache Tomcat** e **Jakarta**.
 
 ## Funcionalidades
 
